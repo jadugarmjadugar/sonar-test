@@ -1,3 +1,8 @@
+#############################################################################
+NOTE: Make sure you add the password of each user like ec2, sonarqube and root
+                    using the sudo passwd username
+#############################################################################
+
 ## 1.. Install jdk 17
 
 sudo yum install java-17-amazon-corretto-devel
