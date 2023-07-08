@@ -1,6 +1,8 @@
 #############################################################################
 NOTE: Make sure you add the password of each user like ec2, sonarqube and root
                     using the sudo passwd username
+
+             Note 2: Port number of Sonarqube server is 9000
 #############################################################################
 
 ## 1.. Install jdk 17
